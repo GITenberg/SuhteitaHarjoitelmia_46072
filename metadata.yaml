@@ -1,0 +1,30 @@
+_repo: SuhteitaHarjoitelmia_46072
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jotuni, Maria
+    birthdate: 1880
+    deathdate: 1943
+    gutenberg_agent_id: '43600'
+    url: http://www.gutenberg.org/2009/agents/43600
+description: ''
+gutenberg_issued: '2014-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46072'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Short stories, Finnish'
+- !lcsh 'Finnish fiction -- 20th century'
+tableOfContents: Aina -- Margareta -- Anita -- Oliivia -- Berta -- Annastiina -- Hilda
+  Husso -- Tuonen mailla -- Sielu -- Herran teitä -- Nainen -- Vapaus -- Agneetta
+  -- Luonto ja ihminen -- Hämärässä -- Uni -- Lapsi.
+title: 'Suhteita: Harjoitelmia'
+url: http://www.gutenberg.org/ebooks/46072
